@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportTest", "ExportTest.csproj", "{5312B10D-0387-4A1B-8373-0D27C15DCAC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchDicomExport", "BatchDicomExport.csproj", "{57F33C33-4CE2-4B56-9114-B827BEAC5A0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5312B10D-0387-4A1B-8373-0D27C15DCAC5}.Debug|x64.ActiveCfg = Debug|x64
-		{5312B10D-0387-4A1B-8373-0D27C15DCAC5}.Debug|x64.Build.0 = Debug|x64
-		{5312B10D-0387-4A1B-8373-0D27C15DCAC5}.Release|x64.ActiveCfg = Release|x64
-		{5312B10D-0387-4A1B-8373-0D27C15DCAC5}.Release|x64.Build.0 = Release|x64
+		{57F33C33-4CE2-4B56-9114-B827BEAC5A0A}.Debug|x64.ActiveCfg = Debug|x64
+		{57F33C33-4CE2-4B56-9114-B827BEAC5A0A}.Debug|x64.Build.0 = Debug|x64
+		{57F33C33-4CE2-4B56-9114-B827BEAC5A0A}.Release|x64.ActiveCfg = Release|x64
+		{57F33C33-4CE2-4B56-9114-B827BEAC5A0A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2C28EEE1-635E-4824-AFE0-D8E8292937CE}
+		SolutionGuid = {E43CA220-35FE-4ED0-A199-46BE9B4E6F12}
 	EndGlobalSection
 EndGlobal
